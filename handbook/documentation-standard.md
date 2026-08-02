@@ -231,6 +231,52 @@ Use:
 
 Presentation improves comprehension.
 
+# Source of Truth
+
+Documentation should be authored locally within the repository.
+
+Visual Studio Code is the primary engineering workspace for all documentation, source code, architecture, and project planning.
+
+GitHub serves as the published representation of the repository rather than the primary editing environment.
+
+Standard workflow:
+
+Visual Studio Code
+
+↓
+
+Edit
+
+↓
+
+Review
+
+↓
+
+Commit
+
+↓
+
+Push
+
+↓
+
+GitHub
+
+Direct editing within GitHub should be reserved for exceptional circumstances, such as correcting a minor typographical error when a local development environment is unavailable.
+
+This workflow ensures:
+
+- Documentation remains version controlled.
+- Local repositories remain synchronized.
+- Changes are reviewed before publication.
+- Engineering history is preserved.
+- GitHub always reflects the current state of the project.
+
+The local repository is the source of truth.
+
+GitHub is the published record.
+
 ---
 
 # Summary
@@ -242,6 +288,52 @@ It deserves the same level of care as the source code.
 Well-written documentation builds confidence.
 
 Confident users become successful users.
+
+# Source of Truth
+
+Documentation should be authored locally within the repository.
+
+Visual Studio Code is the primary engineering workspace for all documentation, source code, architecture, and project planning.
+
+GitHub serves as the published representation of the repository rather than the primary editing environment.
+
+## Standard Workflow
+
+Visual Studio Code
+
+↓
+
+Edit
+
+↓
+
+Review
+
+↓
+
+Commit
+
+↓
+
+Push
+
+↓
+
+GitHub
+
+Direct editing within GitHub should be reserved for exceptional circumstances, such as correcting a minor typographical error when a local development environment is unavailable.
+
+This workflow ensures:
+
+- Documentation remains version controlled.
+- Local repositories remain synchronized.
+- Changes are reviewed before publication.
+- Engineering history is preserved.
+- GitHub always reflects the current state of the project.
+
+The local repository is the source of truth.
+
+GitHub is the published record.
 
 ---
 

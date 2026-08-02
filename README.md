@@ -2,6 +2,11 @@
 
 # Engineering Handbook
 
+![Version](https://img.shields.io/badge/version-v1.0.0-2ea44f)
+![License](https://img.shields.io/badge/license-MIT-blue)
+![Status](https://img.shields.io/badge/status-Active-success)
+![Philosophy](https://img.shields.io/badge/Wisdom-Before_Action-6f42c1)
+
 ## Wisdom Before Action
 
 > *Building practical software that helps people make better decisions through thoughtful engineering.*
